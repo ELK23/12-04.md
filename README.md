@@ -52,7 +52,7 @@
 
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
-![image](https://github.com/user-attachments/assets/43c3f7a3-d734-4c42-a048-6babff78f403)
+![image](https://github.com/user-attachments/assets/4374cf78-e650-432e-a7db-c77c04160937)
 
 
 ```
